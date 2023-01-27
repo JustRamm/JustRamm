@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justramm&label=Profile%20views&color=0e75b6&style=flat" alt="justramm" /> </p>
 
-- 🍜 Finished working on [Fresh Pepper](https://pepper-free-1.abirambijoy.repl.co/)
+- 🍜 Finished working on [Fresh Pepper](https://pepper-free-1.abirambijoy.repl.co/) (**HTML/CSS**)
 
-- 🏅 Finished working on [Event Hunt](https://www.figma.com/file/oOaYPnAWZw5ptsgUedmLSV/Event-Hunt?node-id=0%3A1&t=sl0JVEn888fK2FLF-1)
-
-- 🔭 Finished working on [CUPCAKE](https://www.figma.com/file/bs7rxSFmBpAd5aq625IZS6/CUPCAKE?node-id=0%3A1&t=himUDWREPXwdb0OI-1)
+- 🏅 Finished working on [Event Hunt](https://www.figma.com/file/oOaYPnAWZw5ptsgUedmLSV/Event-Hunt?node-id=0%3A1&t=sl0JVEn888fK2FLF-1) & [CUPCAKE](https://www.figma.com/file/bs7rxSFmBpAd5aq625IZS6/CUPCAKE?node-id=0%3A1&t=himUDWREPXwdb0OI-1) (**FIGMA**)
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
