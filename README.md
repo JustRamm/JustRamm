@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Abiram T Bijoy</h1>
+<h1 align="center">Hi, I'm Abiram T Bijoy</h1>
 <h3 align="center">A passionate frontend developer from Kerala,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justramm&label=Profile%20views&color=0e75b6&style=flat" alt="justramm" /> </p>
@@ -7,7 +7,7 @@
 
 - 🏅 Finished working on [Event Hunt](https://www.figma.com/file/oOaYPnAWZw5ptsgUedmLSV/Event-Hunt?node-id=0%3A1&t=sl0JVEn888fK2FLF-1) & [CUPCAKE](https://www.figma.com/file/bs7rxSFmBpAd5aq625IZS6/CUPCAKE?node-id=0%3A1&t=himUDWREPXwdb0OI-1) (**FIGMA**)
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIP,REACT**
 
 - 📫 How to reach me **abirambijoy@gmailcom**
 
