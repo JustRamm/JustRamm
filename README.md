@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abiram T Bijoy 👋</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | AI & Blockchain Explorer</h3>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | AI  Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justramm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -60,3 +60,4 @@
 <p align="left">
   <a href="mailto:abirambijoy@gmail.com">📧 Email Me</a>
 </p>
+
