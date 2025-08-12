@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abiram T Bijoy
+# ​ Hi, I'm Abiram T Bijoy
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=justramm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
-I’m a **Full-Stack Developer** passionate about building **AI-powered applications**, **scalable backend architectures**, and **intuitive user experiences**.  
+## ​ About Me
+I’m a **Full-Stack Developer** passionate about building **AI-powered applications**, **scalable backend architectures**, and **intuitive user experiences**.
 
-Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin University of Science and Technology**, I have been creating and deploying production-ready applications since my first year.  
+Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin University of Science and Technology**, I’ve been creating and deploying production-ready applications since my first year.
 
 💡 **Mission:** Deliver technology that simplifies lives, empowers communities, and inspires innovation.
 
 ---
 
-## 🛠 Tech Stack
+## ​ Tech Stack
 
 ### **Languages**
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -72,26 +72,26 @@ Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin U
 
 ---
 
-## 📁 Featured Projects
+## ​ Featured Projects
 
 ### **[NEXT App](https://next-app-lake-nu.vercel.app/)**
-A matchmaking and networking platform combining **rule-based** and **collaborative filtering algorithms** for intelligent recommendations.
-- **Tech Stack**: Next.js, TailwindCSS, Node.js, Supabase
+A matchmaking and networking platform combining **rule-based** and **collaborative filtering algorithms** for intelligent recommendations.  
+- **Tech Stack**: Next.js, TailwindCSS, Node.js, Supabase  
 - **Key Features**: Real-time chat, smart matchmaking, responsive UI
 
 ### **[AARAM Document Manager](https://aaramprojectmain.vercel.app/)**
-AI-powered government document management system with **DigiLocker integration**.
-- **Tech Stack**: Flutter, Dart, Firebase, Supabase, AI Services
+AI-powered government document management system with **DigiLocker integration**.  
+- **Tech Stack**: Flutter, Dart, Firebase, Supabase, AI Services  
 - **Key Features**: Secure document storage, AI chatbot, government API integration, cross-platform support
 
 ### **[SAIT Placement Portal](https://sait-placement-portal.vercel.app/)**
-A university placement management portal for **streamlining student–recruiter workflows**.
-- **Tech Stack**: Next.js, TailwindCSS, Node.js, PostgreSQL
+A university placement management portal for **streamlining student–recruiter workflows**.  
+- **Tech Stack**: Next.js, TailwindCSS, Node.js, PostgreSQL  
 - **Key Features**: Student profiles, job listings, application tracking
 
 ---
 
-## 🏗 Example Architecture Diagram
+## ​ Architecture Diagram Example
 
 ```mermaid
 graph TD
