@@ -1,4 +1,4 @@
-# Hi, I'm Abiram T Bijoy 👋
+# 👋 Hi, I'm Abiram T Bijoy
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=justramm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,10 +11,11 @@
 ---
 
 ## 🚀 About Me
-I’m a **Full-Stack Developer** passionate about crafting **AI-powered applications**, **scalable backend systems**, and **intuitive user experiences**.  
-Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin University of Science and Technology**, I’ve been building and deploying projects since my freshman year.
+I’m a **Full-Stack Developer** passionate about building **AI-powered applications**, **scalable backend architectures**, and **intuitive user experiences**.  
 
-💡 **Mission:** To create technology that simplifies lives, empowers communities, and inspires innovation.
+Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin University of Science and Technology**, I have been creating and deploying production-ready applications since my first year.  
+
+💡 **Mission:** Deliver technology that simplifies lives, empowers communities, and inspires innovation.
 
 ---
 
@@ -75,35 +76,27 @@ Currently pursuing my **B.Tech in Computer Science & Engineering** at **Cochin U
 
 ### **[NEXT App](https://next-app-lake-nu.vercel.app/)**
 A matchmaking and networking platform combining **rule-based** and **collaborative filtering algorithms** for intelligent recommendations.
-- **Tech**: Next.js, TailwindCSS, Node.js, Supabase
-- **Features**: Real-time chat, intelligent matchmaking, responsive UI
+- **Tech Stack**: Next.js, TailwindCSS, Node.js, Supabase
+- **Key Features**: Real-time chat, smart matchmaking, responsive UI
 
 ### **[AARAM Document Manager](https://aaramprojectmain.vercel.app/)**
 AI-powered government document management system with **DigiLocker integration**.
-- **Tech**: Flutter, Dart, Firebase, Supabase, AI Integration
-- **Features**: Document storage, AI chatbot, Government API integration, cross-platform support
+- **Tech Stack**: Flutter, Dart, Firebase, Supabase, AI Services
+- **Key Features**: Secure document storage, AI chatbot, government API integration, cross-platform support
 
 ### **[SAIT Placement Portal](https://sait-placement-portal.vercel.app/)**
-A university placement management portal for **streamlining student–recruiter interactions**.
-- **Tech**: Next.js, TailwindCSS, Node.js, PostgreSQL
-- **Features**: Student profiles, job listings, application tracking
+A university placement management portal for **streamlining student–recruiter workflows**.
+- **Tech Stack**: Next.js, TailwindCSS, Node.js, PostgreSQL
+- **Key Features**: Student profiles, job listings, application tracking
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justramm&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justramm&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+## 🏗 Example Architecture Diagram
 
----
-
-## 📫 Let’s Connect
-<div align="center">
-  <a href="mailto:abirambijoy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JustRamm"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abiram-t-bijoy-8b243b25b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-
----
+```mermaid
+graph TD
+    A[Frontend: Next.js/Tailwind] -->|API Calls| B[Backend: Node.js/Flask/Django]
+    B -->|DB Queries| C[(PostgreSQL/MySQL/Supabase)]
+    B -->|Auth| D[JWT/OAuth/Firebase Auth]
+    B -->|ML Models| E[TensorFlow/HuggingFace]
+    B -->|Deployment| F[Vercel/Docker]
